@@ -4,7 +4,7 @@ public class Exercise03_04 {
 
 	public static void main(String[] args) {
 
-		int month = 1 + (int) (Math.random() * 13);
+		int month = 1 + (int) (Math.random() * 12);
 
 		String monthName = "";
 
