@@ -1,4 +1,4 @@
-##Summary of Chapter - 4
+## Summary of Chapter - 4
 
 1. Java provides the mathematical methods sin, cos, tan, asin, acos, atan, toRadians, toDegree, exp, log, log10, pow, sqrt, cell, floor, rint, round, min, max, abs, and random in the Math class for performing mathematical functions.   </br>
 
