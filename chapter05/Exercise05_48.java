@@ -10,8 +10,6 @@ public class Exercise05_48 {
 		System.out.print("Enter a string: ");
 		String s1 = input.nextLine();
 
-	
-
 		for (int i = 0; i < s1.length(); i++) {
 			if (i % 2 == 0) {
 				System.out.print(s1.charAt(i));

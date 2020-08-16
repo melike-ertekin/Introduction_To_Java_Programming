@@ -19,6 +19,7 @@ public class Exercise05_18 {
 		}
 
 		System.out.println("\n************\n");
+		
 		// B
 		for (int row = 6; row >= 1; row--) {
 
