@@ -13,7 +13,7 @@ public class Exercise05_34 {
 		int number;
 
 		while (wonHuman <= 2 && wonComp <= 2) {
-			computer = (int) (Math.random() * 2);
+			computer = (int) (Math.random() * 3);
 			System.out.print("\nEnter a number for scissor (0), rock (1), paper (2) :");
 			number = input.nextInt();
 
