@@ -25,7 +25,7 @@ public class Exercise07_20 {
 	public static void selectionSort(double[] list) {
 
 		for (int i = 0; i < list.length - 1; i++) {
-			// Find the minimum in the list[i..list.length-1]
+			// Find the max in the list[i..list.length-1]
 			double currentMax = list[i];
 			int currentMaxIndex = i;
 
@@ -36,7 +36,7 @@ public class Exercise07_20 {
 				}
 			}
 
-			// Swap list[i] with list[currentMinIndex] if necessary
+			// Swap list[i] with list[currentMaxIndex] if necessary
 			if (currentMaxIndex != i) {
 				list[currentMaxIndex] = list[i];
 				list[i] = currentMax;
