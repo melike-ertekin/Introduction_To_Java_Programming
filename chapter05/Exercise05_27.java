@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercise05_27 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		int counter = 0;
 		for (int year = 101; year <= 2100; year++) {
 

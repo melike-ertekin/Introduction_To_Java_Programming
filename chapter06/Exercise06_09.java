@@ -3,7 +3,6 @@ package chapter06;
 public class Exercise06_09 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		System.out.printf("%10s %15s    |   %15s %10s\n", "Feet", "Meter", "Meter", "Feet");
 		System.out.println("--------------------------------------------------------------\n");
